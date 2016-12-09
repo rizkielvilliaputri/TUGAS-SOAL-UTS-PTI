@@ -2,7 +2,7 @@
 
 soal pribadi uts 
 
-19.	Jelaskan pengertian dari volatile dan sebutkan 2 jenis memori biasa!
+Jelaskan pengertian dari volatile dan sebutkan 2 jenis memori biasa!
 
 a.	Volatile memory merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. Contoh memory volatile adalah RAM 
 
